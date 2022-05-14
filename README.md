@@ -1,4 +1,4 @@
-## Hello! I'm Renato Andrade, Fullstack developer in the making :)
+## Hello! I'm Renato, QA Engineer :)
 
 <div align="center">
   <a href="https://github.com/randradee">
