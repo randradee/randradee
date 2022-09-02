@@ -2,8 +2,9 @@
 
 <div align="center">
   <a href="https://github.com/randradee">
-  <img height="150em"  max-width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=randradee&layout=compact&langs_count=5&theme=dracula"/>
+  <img height="150em"  max-width="40%" src=https://github-readme-stats.vercel.app/api/top-langs/?username=randradee&layout=compact&langs_count=5"/>
 </div>
+                                                                                                                                     
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Renato-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Renato-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
