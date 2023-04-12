@@ -1,4 +1,4 @@
-## Hello! I'm Renato, a Software Engineer :)
+## Hello! I'm Renato, an Electrical Engineer migrating to Software Engineering.
 
 <div align="center">
   <a href="https://github.com/randradee">
